@@ -1,2 +1,9 @@
-.streamlit/secrets.toml
+# .streamlit 폴더 안에 있는 건 무조건 무시해! (모든 파일 차단)
+.streamlit/*
+
+# 파이썬 찌꺼기 파일 무시
+__pycache__/
+*.pyc
+
+# 환경 설정 파일 무시
 .env
