@@ -11,5 +11,3 @@ numpy
 requests
 google-api-python-client
 google-generativeai
-streamlit-authenticator
-
